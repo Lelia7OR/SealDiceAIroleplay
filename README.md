@@ -1,7 +1,7 @@
 # SealDiceAIres
 
 > Vibe coded by Claude, conceived by Lelia. ฅ^•ﻌ•^ฅ
-> 为海豹骰设计的 AI 回复插件
+> 为海豹骰设计的 AI角色扮演回复插件
 
 ---
 

@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         SealDiceAIres
+// @name         SealDiceAIroleplay
 // @author       Lelia
 // @version      1.0.0
-// @description  为海豹骰设计的 AI 回复插件 | Vibe coded by Claude, conceived by Lelia.
+// @description  为海豹骰设计的 AI 角色扮演回复插件 | Vibe coded by Claude, conceived by Lelia.
 // @timestamp    1700000000
 // @license      Apache-2
-// @homepageURL  https://github.com/Lelia7OR/SealDiceAIres
+// @homepageURL  https://github.com/Lelia7OR/SealDiceAIroleplay
 // ==/UserScript==
 
 // ===== 配置区 =====

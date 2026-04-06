@@ -5,7 +5,7 @@
 // @description  为海豹骰设计的 AI 回复插件 | Vibe coded by Claude, conceived by Lelia.
 // @timestamp    1700000000
 // @license      Apache-2
-// @homepageURL  https://github.com/sealdice/javascript
+// @homepageURL  https://github.com/Lelia7OR/SealDiceAIres
 // ==/UserScript==
 
 // ===== 配置区 =====
